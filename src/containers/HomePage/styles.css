@@ -1,0 +1,22 @@
+.HomePage{
+    padding: 50px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+.HomePage > div {
+    display: flex;
+    justify-content: space-between;
+}
+.HomePage > div > div{
+    margin: 0 !important;
+}
